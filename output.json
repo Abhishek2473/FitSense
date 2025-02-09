@@ -1,0 +1,36 @@
+{
+  "personal_info": {
+    "weight": "2 pounds",
+    "height": "2 inches"
+  },
+  "goal": "cardio",
+  "experience": "extensive",
+  "time_available": "3 hours per day",
+  "location": "home",
+  "workout_plan": {
+    "week_1": {
+      "Monday": "30 minutes of jumping jacks, 30 minutes of high knees, 30 minutes of jump rope",
+      "Wednesday": "30 minutes of burpees, 30 minutes of mountain climbers, 30 minutes of jumping lunges",
+      "Friday": "30 minutes of stair running, 30 minutes of jumping squats, 30 minutes of box jumps"
+    },
+    "week_2": {
+      "Monday": "30 minutes of jumping jacks, 30 minutes of high knees, 30 minutes of jump rope",
+      "Wednesday": "30 minutes of burpees, 30 minutes of mountain climbers, 30 minutes of jumping lunges",
+      "Friday": "30 minutes of stair running, 30 minutes of jumping squats, 30 minutes of box jumps"
+    },
+    "week_3": {
+      "Monday": "30 minutes of jumping jacks, 30 minutes of high knees, 30 minutes of jump rope",
+      "Wednesday": "30 minutes of burpees, 30 minutes of mountain climbers, 30 minutes of jumping lunges",
+      "Friday": "30 minutes of stair running, 30 minutes of jumping squats, 30 minutes of box jumps"
+    },
+    "week_4": {
+      "Monday": "30 minutes of jumping jacks, 30 minutes of high knees, 30 minutes of jump rope",
+      "Wednesday": "30 minutes of burpees, 30 minutes of mountain climbers, 30 minutes of jumping lunges",
+      "Friday": "30 minutes of stair running, 30 minutes of jumping squats, 30 minutes of box jumps"
+    }
+  },
+  "food_recommendations": {
+    "eat": ["lean protein", "fruits and vegetables", "whole grains", "healthy fats"],
+    "avoid": ["processed foods", "sugary drinks", "highly refined carbohydrates", "trans fats"]
+  }
+}

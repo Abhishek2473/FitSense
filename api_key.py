@@ -1,0 +1,2 @@
+API_KEY = "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"
+#  $env:GROQ_API_KEY="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"

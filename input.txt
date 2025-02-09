@@ -1,0 +1,7 @@
+weight: 80
+height: 6
+goal: 2
+experience: 1
+time_available: 1
+location: 2
+days_per_week: 1
